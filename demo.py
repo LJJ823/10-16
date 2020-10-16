@@ -13,6 +13,8 @@ ax.spines['bottom'].set_position(('data',0))
 ax.yaxis.set_ticks_position('left')
 ax.spines['left'].set_position(('data',0))
 
+
+
 x = np.arange(-3, 3, 0.1)
 y1 = pow(2,a*x)
 y2 = pow(2,-a*x)
