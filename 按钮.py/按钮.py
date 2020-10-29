@@ -109,7 +109,7 @@ def button():
     win = tk.Tk()
 
     #win.geometry("600x600")
-    win.title('GUI004')
+    win.title('GUI.1')
 
     aLabel = ttk.Label(win, text='已有信号类型')
     aLabel.grid(column=0, row=0)
